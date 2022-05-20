@@ -1,5 +1,5 @@
 ARG KUBERNETES_VERSION=dev
-
+teete
 # Build environment
 FROM rancher/hardened-build-base:v1.18.1b7 AS build
 ARG DAPPER_HOST_ARCH
